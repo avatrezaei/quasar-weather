@@ -7,5 +7,5 @@ yarn
 # run 
 quasar dev 
 
-![Screenshot](screenshot.png)
+![Screenshot](screen_shot.png)
  
