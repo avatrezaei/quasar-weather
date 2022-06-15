@@ -13,8 +13,7 @@ quasar dev
     <td> <img src="screen2.png" width="200" height="400"></td>
    </tr> 
   
-  <tr> 
-   </tr> 
+ 
  
 </table>
  
