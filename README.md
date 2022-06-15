@@ -7,4 +7,5 @@ yarn
 # run 
 quasar dev 
 
-!demo(./screen_shot.png)
+!demo(./screen1.png =200x400)
+!demo(./screen2.png =200x400)
