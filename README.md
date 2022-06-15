@@ -7,7 +7,7 @@ yarn
 # run 
 quasar dev 
 
+<img src="screen1.png" width="200" height="400">
+<img src="screen2.png" width="200" height="400">
 
-!demo(screen1.png)
-!demo(screen2.png)
 
