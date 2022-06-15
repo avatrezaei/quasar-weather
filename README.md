@@ -11,7 +11,7 @@ quasar dev
   <tr>
     <td> <img src="screen1.png" width="200" height="400"></td>
 
-    <td><img src="screen2.png" width="200" height="400"></td>
+    <td> <img src="screen2.png" width="200" height="400"></td>
    </tr> 
  
 </table>
