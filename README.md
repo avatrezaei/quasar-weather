@@ -7,7 +7,14 @@ yarn
 # run 
 quasar dev 
 
-<img src="screen1.png" width="200" height="400">
-<img src="screen2.png" width="200" height="400">
+<table>
+  <tr>
+    <td> <img src="screen1.png" width="200" height="400"></td>
+
+    <td><img src="screen2.png" width="200" height="400"></td>
+   </tr> 
+ 
+</table>
+ 
 
 
